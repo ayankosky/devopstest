@@ -1,0 +1,29 @@
+
+
+
+.login{
+    margin: auto;
+    align-self: center;
+    background-color: rgb(99, 96, 96);
+    border: 50px;
+    border-width: 2px solid black;
+    padding:200px;
+
+
+}
+
+input{
+    padding-bottom: 10px;
+}
+
+.card{
+   
+    margin: auto;
+    align-self: center; 
+}
+
+.table-div{
+    align-content: center;
+    background-color: ghostwhite;
+    
+}
